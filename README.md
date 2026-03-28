@@ -1,57 +1,65 @@
-<h1 align="center">Hey Everyone, I'm yakhya !💻</h1>
+<h1 align="center">Hi, I'm Yakhya Timurkaev 👋</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt0em8xd3A2YmxkOGdyYXdnMnBsMjRvbW43dDhxYjAwcWJxMzRreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r77sc23Jo1AhlB0uQh/giphy.gif" width="100%" />
+  <strong>Computer Science & Information Systems Student</strong><br/>
+  Software Engineering Focus • Looking for an internship
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yakhya-timurkaev-7730032ba" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/yakhya-timurkaev-7730032ba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://yakhya2006.github.io/portfolio/" target="_blank">
-    <img src="https://cdn.simpleicons.org/address-card/32CD32" height="40" alt="Portfolio" />
+  <a href="https://yakhya2006.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-32CD32?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/yakhyatimurkaev/#" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram" />
+  <a href="https://www.instagram.com/yakhyatimurkaev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
-### 🎓 Computer Science & Information Systems Student
-*(Software Engineering Focus | Looking for an Internship)*
 
 ---
 
-## 👨‍💻 About Me and My Interests
+## 👨‍💻 About Me
 
-I am **Yakhya Timurkaev**, a Computer Science & Information Systems Student currently seeking an internship in Software Engineering. I have a strong foundation in core programming concepts and am eager to apply my knowledge in a professional setting, specifically where software engineering and development intersect.
+I am a student in **Computer Science & Information Systems**, based in **Rezé, France**, and I am currently looking for a **Software Engineering internship**.
+
+I enjoy building practical software solutions and improving my skills across backend development, DevOps, and full-stack engineering.
 
 ```yaml
 Name: Yakhya Timurkaev
 Location: Rezé, France
 Education:
-  - Associate Degree Candidate (BTS SIO equivalent)
-  - Focused on Software Engineering
-Professional_Interests:
-  - DevOps
+  - BTS SIO (Software Engineering track)
+Interests:
   - Software Engineering
-  - Web Development (Backend-focused)
-  - Fullstack Engineering
+  - Backend Web Development
+  - Full-Stack Development
+  - DevOps
   - Game Development
-Currently_Learning:
-  - System Automation (Ansible/Docker)
-  - C# (for game development)
+Currently Learning:
+  - Automation with Ansible and Docker
+  - C# for game development
 ```
 
 ---
 
-## 🛠 Tech Stack and Tool Stuff 🚀
-
-This is a selection of the technologies and tools I've explored and worked with. I prefer a minimal and crisp presentation with icons, as recommended by the DevIcon community!
+## 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" /></a>
-  &nbsp;&nbsp;
-  <a href="https://oracle.com/java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" /></a>
-  &nbsp;&nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
+  <a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
+</p>
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [yakhya-timurkaev](https://www.linkedin.com/in/yakhya-timurkaev-7730032ba)
+- Portfolio: [yakhya2006.github.io/portfolio](https://yakhya2006.github.io/portfolio/)
+
+Thanks for visiting my profile 🚀
