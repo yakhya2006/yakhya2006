@@ -42,6 +42,9 @@ Hobbies:
 ```
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yakhya2006/yakhya2006/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ## 🛠 Tech Stack and Tool Stuff 🚀
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
