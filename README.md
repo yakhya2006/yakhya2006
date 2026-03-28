@@ -14,36 +14,15 @@
   <img src="img/Explosion%20Battle%20GIF%20by%20Xbox.gif" width="80%" />
 </p>
 
-### 🎓 Computer Science & Information Systems Student
-*(Looking for an Internship | Software Engineering & IT)*
-
----
-
-## 👨‍💻 A Little Bit About Me and My Interests
-
-I'm **Yakhya Timurkaev**, a Computer Science student currently enrolled in an associate degree program. I have a broad passion for technology, from the infrastructure that drives deployment to the design of complex software systems. My goal is to find an internship where I can apply my knowledge, particularly in areas where software engineering, system operations, and development intersect.
-
-```yaml
-Name: Yakhya Timurkaev
-Location: France
-Education:
-  - Computer Science & Information Systems Student
-  - Associate Degree Candidate (BTS SIO equivalent)
-Professional_Interests:
-  - DevOps
-  - Software Engineering & Systems
-  - Web Development (Backend-focused)
-  - Fullstack Engineering
-  - Game Development
-Hobbies:
-  - Reading Novels (Sci-Fi/Fantasy)
-  - Gaming & Pop Culture
-  - Hanging out
-```
-
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/yakhya2006/yakhya2006/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yakhya2006&theme=tokyonight&show_icons=true&count_private=true&layout=compact" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yakhya2006&theme=tokyonight&layout=compact&count_private=true" alt="Top Languages" />
 </p>
 
 ## 🛠 Tech Stack and Tool Stuff 🚀
@@ -76,6 +55,31 @@ Hobbies:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
       </a>
 </p>
+### 🎓 Computer Science & Information Systems Student
+*(Looking for an Internship | Software Engineering & IT)*
 
+---
+
+## 👨‍💻 A Little Bit About Me and My Interests
+
+I'm **Yakhya Timurkaev**, a Computer Science student currently enrolled in an associate degree program. I have a broad passion for technology, from the infrastructure that drives deployment to the design of complex software systems. My goal is to find an internship where I can apply my knowledge, particularly in areas where software engineering, system operations, and development intersect.
+
+```yaml
+Name: Yakhya Timurkaev
+Location: France
+Education:
+  - Computer Science & Information Systems Student
+  - Associate Degree Candidate (BTS SIO equivalent)
+Professional_Interests:
+  - DevOps
+  - Software Engineering & Systems
+  - Web Development (Backend-focused)
+  - Fullstack Engineering
+  - Game Development
+Hobbies:
+  - Reading Novels (Sci-Fi/Fantasy)
+  - Gaming & Pop Culture
+  - Hanging out
+```
 ---
 
