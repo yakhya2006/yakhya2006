@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/yakhya2006/yakhya2006/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yakhya2006&theme=tokyonight&layout=compact&count_private=true" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yakhya2006&theme=tokyonight&layout=compact" alt="Top Languages" />
 </p>
 ## 🛠 Tech Stack and Tool Stuff 🚀
 
